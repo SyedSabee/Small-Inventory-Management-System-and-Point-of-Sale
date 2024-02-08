@@ -75,3 +75,5 @@ This project is an inventory management system and point of sale (POS) applicati
 
 # Project-Video
 
+https://github.com/SyedSabee/Small-Inventory-Management-System-and-Point-of-Sale/assets/145167243/5a86273d-9461-463f-837f-68991f640faa
+
