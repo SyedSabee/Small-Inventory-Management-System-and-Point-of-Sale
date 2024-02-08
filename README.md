@@ -63,11 +63,7 @@ This project is an inventory management system and point of sale (POS) applicati
 
 1. Clone the repository:
   - git clone [repository_url]
-2. Install backend dependencies:
-  - `cd backend`
-  - `npm install`
-3. Install frontend dependencies:
-  - `cd frontend`
+2. Install backend dependencies and frontend dependencies:
   - `npm install`
 
 ## Usage
