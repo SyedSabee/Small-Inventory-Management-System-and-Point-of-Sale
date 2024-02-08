@@ -53,27 +53,29 @@ This project is an inventory management system and point of sale (POS) applicati
   - Displays items added to the cart.
   - Contains a "Create Invoice" button to generate and display the invoice in the bill component
 
+## Authentication
+
+  - **Login Component:** Allows users to log in to the system.
+  - **Register Component:** Enables new users to register with the system. Utilizes nodemailer for sending registration confirmation emails.
+  - **Forget Password:** Provides functionality for users to reset their password. Also utilizes nodemailer for sending password reset emails.
+
 ### Installation
 
 1. Clone the repository:
   - git clone [repository_url]
 2. Install backend dependencies:
-  - cd backend
-  - npm install
+  - `cd backend`
+  - `npm install`
 3. Install frontend dependencies:
-  - cd frontend
-  - npm install
+  - `cd frontend`
+  - `npm install`
 
 ## Usage
 
-1. Start the backend server:
-  - cd backend
-  - npm start
-
-2. Start the frontend development server:
-  - cd frontend
-  - npm start
+1. Start the backend server and frontend development server:
+  - `npm run dev`
 
 3. Access the application in your browser at **`http://localhost:3000`**.
 
 # Project-Video
+
