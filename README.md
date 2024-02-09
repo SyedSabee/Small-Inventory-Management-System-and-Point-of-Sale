@@ -1,4 +1,4 @@
-# Small Inventory Management System and Point of Sale
+# Small Inventory Management System and Point of Sale 
 
 This project is a small inventory management system and point of sale (POS) application built with React.js for the frontend and Express.js with MongoDB for the backend.
 
